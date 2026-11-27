@@ -1,0 +1,2 @@
+path,lookahead_m,rmse_m,max_tracking_error_m,steering_variation_rate_deg_per_s,path_completed,elapsed_time_s
+s_curve,2.0,0.12024560573926671,0.5000009987037038,3.1671034627944694,True,36.15
